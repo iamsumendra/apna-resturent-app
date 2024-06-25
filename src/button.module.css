@@ -1,0 +1,41 @@
+
+*{box-sizing: border-box;
+padding: 0%;
+margin: 0%;}
+
+
+
+.cmp{
+    
+    margin-left:10%;     
+    
+cursor: pointer;
+    border-radius: 80px  ;
+    width: 10%;
+    padding: 0%;
+    height: 45px;
+    text-align: center;
+       color:whitesmoke;
+    background: rgba(255, 121, 84, 1);
+
+                  
+}
+#w{
+    margin-top: 1%;
+}
+.play{
+    width: 5%;
+    height: 5%;
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 800px) {
+    .cmp{
+        width: 10%;
+    }
+    .play{
+        width: 30px;
+        height: 30px;
+    }
+  }

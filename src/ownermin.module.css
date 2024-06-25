@@ -1,0 +1,125 @@
+*
+    {
+        box-sizing: border-box;
+        margin-top: 0% 0% 0% 0%;
+        padding: 0% 0% 0% 0%;
+  
+    }
+    img{
+        cursor: pointer;
+    }
+
+    .se_div{
+        margin-top: 6%;
+     
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 1%;
+    }
+
+    .se_div h3{text-align: center;
+        
+font-family: Montserrat;
+font-size: 200%;
+font-weight: 700;
+line-height: 43.88px;
+
+
+        
+
+    }
+    .se_div p{
+    
+font-family: Montserrat;
+font-size: 120%;
+font-weight: 500;
+line-height: 21.94px;
+color: rgba(255, 121, 84, 1);
+margin-left: 10%;
+
+
+
+
+    }
+    #test{
+        margin-right: 6%;
+    }
+    .se_div {
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+    .div_outer{
+     
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 3%;
+margin-left: 10%;
+margin-right: 10%;
+border-radius: 20px;
+box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.1);
+
+
+
+        
+
+    }
+    .div_inner{
+        
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+margin-top: 5%;
+margin-bottom: 4%;
+margin-right: 5%;
+    }
+    .well{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        margin-top: 5%;
+        margin-left: 15px;
+    
+    }   
+    .well h5{
+        font-family: Montserrat;
+        font-size: 100%;
+        font-weight: 600;
+        line-height: 21.94px;
+        text-align: right;
+        
+
+    }
+    .well p{
+        
+font-family: Montserrat;
+font-size: 80%;
+font-weight: 400;
+line-height: 15.85px;
+text-align: right;
+
+    }
+    .inp{
+      
+        margin-left: 30%;
+        margin-right: 27%;
+        margin-bottom: 5%
+
+;
+.inp p{
+    
+font-family: Montserrat;
+font-size: 100%;
+font-weight: 500;
+line-height: 21.94px;
+text-align: center;
+margin-bottom: 5%;
+}
+    }
+    .rad img{
+       
+        border-radius:50% ;
+        
+    }
+  

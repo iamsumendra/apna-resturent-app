@@ -1,0 +1,73 @@
+*{box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;}
+    
+.first{
+    display: flex;
+    flex-direction: column;
+    
+   
+    width: 80%;
+} 
+
+.ch{
+   
+font-family: Montserrat;
+font-size: 115%;
+font-weight: 700;
+line-height: 20.69px;
+text-align: left;
+
+}
+img{
+    cursor: pointer;
+}
+.pn{  
+   
+
+    width:80%;
+    
+    margin-top: 0%;
+  
+    }   
+    .pa{
+        margin-top: 4%; 
+    font-family: Montserrat;
+    font-size: 100%;
+    font-weight: 500;
+    line-height: 21.94px;
+
+
+    
+    }
+#g{
+  
+    width: 50%;
+    margin-left:18%;
+}
+#g h4{
+    text-align: center;
+}
+
+
+#rit{
+    margin-left:10%;
+}
+
+#rite{
+    margin-left:18%;
+   
+}
+
+
+    #a{
+        text-align: right;
+        
+   
+    }
+    #ab{
+        text-align: right;
+    }
+    #c{
+        margin-left: 15%;
+    }

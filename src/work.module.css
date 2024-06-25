@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin-top: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+    
+}
+.w{
+
+font-family: Montserrat;
+font-size: 100%;
+font-weight: 500;
+line-height: 21.94px;
+text-align: center;
+color: rgba(255, 75, 60, 1);
+margin-top: 4%;
+
+}
+.h{
+    
+font-family: Montserrat;
+font-size: 150%;
+font-weight: 700;
+line-height: 43.88px;
+text-align: center;
+margin-bottom: 3%;
+margin-top: 1%;
+
+}

@@ -1,0 +1,113 @@
+*
+{
+    box-sizing: border-box;
+    margin-top: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+
+}
+.first{
+    display: flex; 
+   
+    justify-content: space-around;
+    margin-top: 5%;
+    width: 80%;
+    margin-left: 10%;
+    
+}
+.inner{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+width: 50%;  
+
+}
+#he1{
+    
+font-family: Montserrat;
+font-size: 400%;
+font-weight: 700;
+line-height: 115.81px;
+text-align: left;
+
+height: 116px;
+
+gap: 0px;
+opacity: 0px;
+margin-top: 2%;
+
+}
+#he2{
+    font-family: Montserrat;
+font-size: 400%;
+font-weight: 700;
+line-height: 60.81px;
+text-align: left;
+
+gap: 0px;
+opacity: 0px;
+text-transform: lowercase;
+
+}
+.at{
+        text-transform: lowercase;
+    font-family: Montserrat;
+    font-size: 400%;
+    font-weight: 700;
+    line-height: 100.81px;
+    text-align: left;
+    color: rgba(98, 95, 95, 1);
+text-transform: lowercase;
+    gap: 0px;
+    opacity: 0px;}
+
+
+    .para{
+        
+        width: 83%;
+    
+        }
+
+
+        
+        #te{
+            font-family: Montserrat;
+font-size: 90%;
+font-weight: 700;
+line-height: 70.81px;
+text-align: left;
+
+        }
+        .pp{
+
+font-size: 90%;
+gap: 0px;
+opacity: 0px;
+
+gap: 0px;
+opacity: 0px;
+
+
+        }
+
+.myimz{
+ 
+    width: 50%;
+
+}
+.main_image {
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 800px) {
+    .main_image img{
+      width:50px;
+    }
+    #he1{
+        font-family: Montserrat;
+    font-size: 400%;
+    font-weight: 700;
+    line-height: 60.81px;}
+  }

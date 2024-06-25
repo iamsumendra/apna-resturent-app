@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin-top: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+    
+}
+.choice{
+    font-family: Montserrat;
+font-size: 100%;
+font-weight: 500;
+line-height: 29.26px;
+text-align: center;
+color: rgba(255, 75, 60, 1);
+margin-top: 2%;
+
+}
+.ja{
+    font-family: Poppins;
+font-size: 170%;
+font-weight: 700;
+line-height: 60px;
+text-align: center;
+
+}
+#plans{
+    font-family: Poppins;
+font-size: 100%;
+font-weight: 700;
+line-height: 60px;
+
+color: rgba(245, 71, 72, 1);
+
+
+}

@@ -1,0 +1,106 @@
+
+*{box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;}
+.api_head{
+    font-family: Montserrat;
+font-size: 140%;
+font-weight: 500;
+line-height: 21.94px;
+text-align: center;
+color:rgba(255, 75, 60, 1);
+margin-top: 3%;
+
+
+}
+.api_he{
+
+font-family: Montserrat;
+font-size: 150%;
+font-weight: 700;
+line-height: 43.88px;
+text-align: center;
+color: rgba(0, 0, 0, 1);
+;
+margin-top: 1%;
+margin-bottom: 2%;
+
+}
+.main_content{
+    display:flex;
+  
+
+    flex-direction: column;
+    border-radius: 25px;
+    box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.2);
+
+
+    flex-wrap: wrap;
+
+}
+
+.card{
+    height: 20rem;
+ 
+    
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    
+   
+
+    
+    
+}
+.bu{padding: 2%;
+
+    border-radius: 18px;
+
+}
+
+#col{
+    color: rgba(250, 74, 12, 0.73);
+font-size: 100%;
+font-weight: bold;
+}
+.btn{
+    
+        
+        
+        
+        
+         
+            margin-left:43%;     
+            
+        cursor: pointer;
+            border-radius: 100px  ;
+            width: 15%;
+            padding: 1%;
+          
+               color:whitesmoke;
+            background: rgba(255, 121, 84, 1);
+            margin-top: 4%;
+        
+                          
+        
+}
+button p{
+    
+font-family: Montserrat;
+font-size: 130%;
+font-weight: 500;
+line-height: 21.94px;
+
+
+}
+
+
+@media only screen and (max-width: 800px) {
+    .btn{
+        width: 15%;
+    }
+    
+    button p{font-family: Montserrat;
+    font-size: 80%;
+    font-weight: 500;
+    line-height: 21.94px;
+  }}

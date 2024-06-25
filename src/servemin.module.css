@@ -1,0 +1,44 @@
+*
+{
+    box-sizing: border-box;
+    margin-top: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+    text-transform: capitalize;
+}
+.third{
+    display: flex;
+
+
+
+margin-top: 3%;
+
+}
+
+   
+
+.imt img{
+  
+    cursor: pointer;
+    
+    margin-left: 15%;
+}
+#im{
+    text-align: center;
+    line-height: 100%;
+    font-size: 100%;
+}
+#sp{text-align: center;
+line-height: 300%;
+font-size: 100%;}
+
+.mylink{text-decoration: none;}
+@media only screen and (max-width: 800px) {
+   #sp {
+        line-height: 100%;
+        font-size:8px;} 
+        #im{
+            text-align: center;
+            line-height: 100%;
+            font-size: 100%;
+        }
+  }
