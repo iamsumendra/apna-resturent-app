@@ -8,7 +8,7 @@ step-3 code . follow this command and move on visual studio
 
 step-4 install dependency using commond: npm i
 
-step-5 for run our project write in cmd using this command: npm run start
+step-5 for run our project write in cmd using this command: npm start
 
 step-6finally we are get out put successfull locally browser on port number 3000
 
