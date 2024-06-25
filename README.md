@@ -10,7 +10,7 @@ step-4 install dependency using commond: npm i
 
 step-5 for run our project write in cmd using this command: npm start
 
-step-6finally we are get out put successfull locally browser on port number 3000
+step-6 finally we are get out put successfull on http://localhost:3000
 
 step:5  for the preview the project image copy below link and paste on browser
 ![image](https://github.com/iamsumendra/apna-resturent-app/assets/171115987/bf078067-301e-4855-9483-e8dc46ebdf07)
