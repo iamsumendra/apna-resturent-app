@@ -1,6 +1,6 @@
 ------------------for starting the project follow these steps-------------------
 
-step-1:frist create directory and open directory in cmd and and write this command :git clone https://github.com/iamsumendra/apna-resturent-app.git
+step-1:frist create directory after open directory in cmd  and write this command :git clone https://github.com/iamsumendra/apna-resturent-app.git
 step-2 open project directary :cd apna-resturent-app  
 step-3 code . follow this command and move on visual studio
 step-4 install dependency using commond: npm i
