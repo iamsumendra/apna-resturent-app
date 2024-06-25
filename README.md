@@ -1,3 +1,19 @@
+------------------for starting the project follow these steps-------------------
+
+step-1:frist create directory and open directory in cmd and and write this command git clone
+
+step-2 intall dependency  write in cmd using this command: npm i
+
+step-3 for run our project write in cmd using this command: npm run start
+step-4 finally we are get out put successfull locally browser on port 3000
+
+step:5  for the preview the project image copy below link and paste on browser
+![image](https://github.com/iamsumendra/apna-resturent-app/assets/171115987/bf078067-301e-4855-9483-e8dc46ebdf07)
+
+
+
+
+------------------------------################---------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -66,5 +82,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
+
+
+![image](https://github.com/iamsumendra/apna-resturent-app/assets/171115987/bf078067-301e-4855-9483-e8dc46ebdf07)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
